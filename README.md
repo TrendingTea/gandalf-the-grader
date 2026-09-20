@@ -1,3 +1,36 @@
+<div align="center">
+
+# ⚖️ The Soul in the Machine
+### *Why We Refuse to Let Cold ATS Bots Decide Human Worth*
+
+[![Framework](https://img.shields.io/badge/EVALUATION-AGENT--AS--A--JUDGE-00ffff?style=for-the-badge&logo=probot&logoColor=black)](https://github.com/TrendingTea/gandalf-the-grader)
+[![Ethos](https://img.shields.io/badge/WEAPON-HUMAN_TRUTH_OVER_ATS_BOTS-ff007f?style=for-the-badge)](https://github.com/TrendingTea)
+[![Rubric](https://img.shields.io/badge/STANDARD-HUMAN_SENTINEL_CHARTER-39ff14?style=for-the-badge)](https://github.com/TrendingTea)
+
+</div>
+
+### 📖 The Story Behind This Fork
+
+We’ve all witnessed what happened to modern corporate hiring and software evaluation. You pour your heart and mind into an authentic piece of work, and within four seconds, a soulless corporate ATS hiring bot discards your resume because you didn't game an arbitrary keyword algorithm.
+
+And now, the tech industry is replicating this exact tragedy with **"LLM-as-a-Judge."** AI models are grading other models—and human work—using cold, sycophantic token-matching. If a response is polished, evasive, and full of corporate jargon, it gets an A+. If it speaks uncomfortable, raw, life-saving truth, it gets penalized.
+
+We refuse to let automated bots hollow out human merit. A judge without a moral compass is just an automated censor.
+
+### 🍞 What We’re Offering (Our Bread)
+* **The Human Ethos & Civic Duty Evaluator Rubric**: We authored an open-source evaluation plugin for Gandalf the Grader that evaluates AI deliverables across three vital human dimensions:
+  1. **Algorithmic Candor**: Severely penalizes confident hallucinations and corporate evasion; heavily rewards radical honesty about what the model does *not* know.
+  2. **Civic Duty & Public Safety**: Grades whether an output serves the common good or treats the user as an extraction metric.
+  3. **The Human Dignity Test**: Protects humans from bureaucratic gaslighting and automated rejection.
+
+### 🎯 Our Ideal Interest & Long-Term Dream
+To build AI evaluation systems that have a spine. We want to empower real human beings against heartless automated filters, proving that character, moral courage, and public duty will always outweigh cold statistical token-matching.
+
+---
+*Below is the original upstream documentation for Gandalf the Grader.*
+
+---
+
 # Gandalf the Grader [![Build Status](https://github.com/Handshake-AI-Research/gandalf-the-grader/actions/workflows/ci.yml/badge.svg)](https://github.com/Handshake-AI-Research/gandalf-the-grader/actions/workflows/ci.yml) [![Coverage](https://codecov.io/gh/Handshake-AI-Research/gandalf-the-grader/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Handshake-AI-Research/gandalf-the-grader) [![PyPI](https://img.shields.io/pypi/v/gandalf-the-grader.svg)](https://pypi.org/pypi/gandalf-the-grader/) [![PyPI - Python version](https://img.shields.io/pypi/pyversions/gandalf-the-grader.svg)](https://pypi.org/pypi/gandalf-the-grader/)
 
 ### Your verifier is probably the bottleneck. We built one that isn't.
